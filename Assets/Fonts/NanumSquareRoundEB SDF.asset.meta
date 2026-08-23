@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b8e38b7f6641ded41ac1d1ccbfd1521b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285495
+  packageName: GUI - Life Game
+  packageVersion: 1.0.4
+  assetPath: Assets/Layer Lab/GUI-LifeGame/ResourcesData/Fonts/NanumSquareRoundEB
+    SDF.asset
+  uploadId: 730505

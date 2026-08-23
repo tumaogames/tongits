@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9ab15b770efdc441bf6b2f0249e44f8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285495
+  packageName: GUI - Life Game
+  packageVersion: 1.0.4
+  assetPath: Assets/Layer Lab/GUI-LifeGame/ResourcesData/Fonts/NanumSquareRoundB_OutLine02_Blue.asset
+  uploadId: 730505
