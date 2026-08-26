@@ -74,6 +74,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Supremacy Codex local code-intelligence state
+# Local code-intelligence state
 /.calm/
 /.atlas/
+
+# Local project recovery/checkpoint state
+/.project-recovery/
